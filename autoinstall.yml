@@ -1,10 +1,10 @@
 autoinstall:
     version: 1
     identity:
-        realname: 'Henrique Fernandes'
+        realname: 'rique'
         hostname: ubuntu-desktop
-        username: riqueps1
-        password: '$y$j9T$TLyAafIbpXv5Qq972wo8q0$35q/OH6e/Ju9xf41i.MtMwt7Xi8NgiADa8guI.iIM93'
+        username: rique
+        password: '$6$jP/whdd5cvJfaJjo$rgIP3yabFURrwAzHDeJTDtFQTaAjAM.pt5abGCYWCEzwT977lgsVIibAo16xbwnppUCkxGSWBE0D4V19STy6e1'
     locale: pt_BR.utf8
     keyboard:
         layout: br
@@ -15,13 +15,6 @@ autoinstall:
         - neofetch
         - zsh
         - curl
-    snaps:
-        - name: spotify
-          channel: stable
-          classic: false
-        - name: postman
-          channel: stable
-          classic: false
     codecs:
         install: true
     drivers:
